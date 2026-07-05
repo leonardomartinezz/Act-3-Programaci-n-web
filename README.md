@@ -20,7 +20,7 @@ Casi cualquier proyecto necesita, en algún momento, mostrar una ventana emergen
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 Copia las carpetas `css/` y `js/` dentro de tu proyecto y enlázalas en tu HTML:
 
@@ -36,11 +36,10 @@ Copia las carpetas `css/` y `js/` dentro de tu proyecto y enlázalas en tu HTML:
 </body>
 ```
 
-No requiere `npm install` ni build step. Funciona abriendo el `index.html` directamente en el navegador.
 
 ---
 
-## 🚀 Uso
+## Uso
 
 ### Modal básico de éxito
 
@@ -126,32 +125,17 @@ modal.abrir();
 modal.cerrar();
 ```
 
-### Opciones disponibles
-
-| Opción          | Tipo       | Descripción                                                        |
-|-----------------|------------|---------------------------------------------------------------------|
-| `tipo`          | string     | `'exito' \| 'error' \| 'advertencia' \| 'info'` — color del ícono   |
-| `icono`         | string     | Texto, número o emoji grande en la parte superior                  |
-| `etiqueta`      | string     | Texto pequeño encima del ícono                                     |
-| `titulo`        | string     | Título del modal                                                    |
-| `mensaje`       | string     | Texto descriptivo (se ignora si se usa `contenidoHTML`)            |
-| `contenidoHTML` | string     | HTML libre para personalizar el contenido                          |
-| `badge`         | object     | `{ texto, tipo }`                                                   |
-| `botones`       | array      | `[{ texto, tipo: 'primario'\|'secundario', onClick(modal) }]`      |
-| `consola`       | array      | Líneas de texto mostradas en un bloque tipo terminal                |
-| `cerrable`      | boolean    | Si se puede cerrar con la `X`, clic afuera o `ESC` (default `true`)|
-| `onCerrar`      | function   | Callback ejecutado al cerrar el modal                              |
 
 ---
 
-## 🖼️ Capturas de pantalla
+## Capturas de pantalla
 
 > Reemplaza estas imágenes con tus propias capturas (colócalas en la carpeta `img/`).
 
 ```markdown
-![Modal de éxito](img/captura-exito.png)
-![Modal de error](img/captura-error.png)
-![Modal de confirmación](img/captura-confirmacion.png)
+![Modal de éxito](img/img1.png)
+![Modal de error](img/img2.png)
+![Modal de confirmación](img/img3.png)
 ```
 
 ---
