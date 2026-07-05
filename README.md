@@ -131,19 +131,13 @@ modal.cerrar();
 ---
 
 ## Capturas de pantalla
-```markdown
 ![Modal de éxito](img/img1.png)
 ![Modal de error](img/img2.png)
 ![Modal de confirmación](img/img3.png)
-```
 
 ---
 
-## Link del video
-
-
-`<PEGA_AQUÍ_EL_LINK_DEL_VIDEO>`
-
+## Link del video: 
 
 
 
