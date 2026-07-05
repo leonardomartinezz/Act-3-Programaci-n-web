@@ -1,15 +1,15 @@
-# 🪟 DSX Modal
+**ALUMNO** *Martínez Miguel Leonardo Daniel*
+**Prof:** *Martínez Nieto Adelina*
+***Programación web***
 
-Componente visual reutilizable de **ventana modal**, escrito en JavaScript puro (sin frameworks), pensado para mostrar resultados, confirmaciones, formularios o mensajes de estado dentro de cualquier página HTML.
+#  DSX Modal
+Este es un omponente visual reutilizable de ventana modal, usamos JavaScript, pensado para mostrar resultados, confirmaciones, formularios o mensajes de estado dentro de cualquier página HTML.
 
-> Repositorio: `<PEGA_AQUÍ_EL_LINK_DEL_REPO>`
-> Demo en vivo (GitHub Pages): `<PEGA_AQUÍ_EL_LINK_DE_PAGES>`
 
 ---
 
-## 📌 ¿Qué problema resuelve?
-
-Casi cualquier proyecto necesita, en algún momento, mostrar una ventana emergente: un mensaje de éxito, un error, una confirmación antes de borrar algo, o un mini-formulario. Normalmente esto se vuelve a programar desde cero en cada proyecto (HTML fijo en el `index.html`, CSS repetido, JS pegado a un solo caso de uso).
+##  ¿Qué problema resuelve?
+Casi cualquier proyecto necesita, en algún momento, mostrar una ventana emergente: un mensaje de éxito, un error, una confirmación antes de borrar algo, o un mini-formulario. Normalmente esto se vuelve a programar desde cero en cada proyecto (HTML fijo en el index.html, CSS repetido, JS pegado a un solo caso de uso).
 
 **DSX Modal** resuelve esto ofreciendo un modal 100% reutilizable:
 
