@@ -1,9 +1,11 @@
 **ALUMNO** *Martínez Miguel Leonardo Daniel*
+
 **Prof:** *Martínez Nieto Adelina*
+
 ***Programación web***
 
-#  DSX Modal
-Este es un omponente visual reutilizable de ventana modal, usamos JavaScript, pensado para mostrar resultados, confirmaciones, formularios o mensajes de estado dentro de cualquier página HTML.
+
+Este es un componente visual reutilizable de ventana modal, usamos JavaScript, pensado para mostrar resultados, confirmaciones, formularios o mensajes de estado dentro de cualquier página HTML.
 
 
 ---
