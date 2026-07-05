@@ -131,9 +131,6 @@ modal.cerrar();
 ---
 
 ## Capturas de pantalla
-
-> Reemplaza estas imágenes con tus propias capturas (colócalas en la carpeta `img/`).
-
 ```markdown
 ![Modal de éxito](img/img1.png)
 ![Modal de error](img/img2.png)
