@@ -56,13 +56,12 @@
     // Función para un modal donde metemos código HTML directamente
     function demoContenidoLibre() {
       DSXModal.show({
-        etiqueta: 'Newsletter',
-        titulo: 'Suscríbete',
+        etiqueta: 'Título del tema libre segun el usuario',
+        titulo: 'Acción a realizar (Confirma/Suscríbete)',
         cerrable: true, 
-        // En lugar de 'mensaje', usamos 'contenidoHTML' para inyectar una caja de texto (input)
         contenidoHTML: `
-          <p style="margin-bottom:10px;color:#64748b;">Recibe novedades una vez al mes.</p>
-          <input type="email" placeholder="tu@correo.com"
+          <p style="margin-bottom:10px;color:#64748b;">Ingresa tu correo.</p>
+          <input type="email" placeholder="pepitocrarft@correo.com"
                  style="width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:6px;font-size:14px;">
         `,
         botones: [
